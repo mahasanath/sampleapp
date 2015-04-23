@@ -19,7 +19,7 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
         ServletOutputStream out = resp.getOutputStream();
-        out.write("You are currently in Canary server".getBytes());
+        out.write("You are currently in Production server".getBytes());
         out.flush();
         out.close();
     }

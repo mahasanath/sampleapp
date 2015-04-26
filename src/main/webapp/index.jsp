@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Production: Server 3</h2>
+<h2>Production</h2>
 </body>
 </html>

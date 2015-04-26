@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Production</h2>
+<h2>Canary</h2>
 </body>
 </html>
